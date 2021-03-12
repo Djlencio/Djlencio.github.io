@@ -1,1 +1,4 @@
 theme: jekyll-theme-slate
+url: "https://tommasolencioni.github.io"
+plugins:
+  - jekyll-sitemap
